@@ -43,3 +43,4 @@ jspm_packages
 
 client/build
 !client/build/index.html
+/client/build/
